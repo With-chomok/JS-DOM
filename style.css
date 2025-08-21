@@ -1,0 +1,7 @@
+.section-card{
+    background-color: aqua;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 7px;
+}
